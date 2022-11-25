@@ -1,3 +1,6 @@
+Write a script in R to create an array, passing in a vector of values and a vector of dimensions.
+Also provide names for each dimension
+
 a =  array(
   6:30,
   dim = c(4, 3, 2),

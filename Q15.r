@@ -1,4 +1,5 @@
-# Write an R program to extract the five of the levels of factor created from a random sample from the LETTERS.
+#Write an R program to extract the five of the levels 
+of factor created from a random sample from the LETTERS	
 
 L = sample(LETTERS,size=50,replace=TRUE)
 print("Original data:")
